@@ -31,7 +31,7 @@ Please use the following steps: https://microshift.io/docs/getting-started/
 
 ## Note:
 
-- It is only available in single node , `Multi node cluster support` is not available at this stage but under `PR` or `Work in progress`. 
+- It is only available in single node and Team have have decided not to support `multi-node`: https://github.com/openshift/microshift/pull/498#issuecomment-1221585455
 
 ## References:
 
