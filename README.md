@@ -20,3 +20,18 @@ To run MicroShift, you need a machine with at least:
 - 2 CPU cores
 - 2GB of RAM
 - 1GB of free storage space for MicroShift
+
+## K3S setup
+
+
+
+
+## Note:
+
+- It is only avavible in single node , `Multi node cluster support` is not avaible at this stage but under `PR` or `Work in progress`. 
+
+## References:
+
+- https://github.com/openshift/microshift
+- https://microshift.io/docs/getting-started/
+- https://www.youtube.com/watch?v=yLf6J3t5XnU
