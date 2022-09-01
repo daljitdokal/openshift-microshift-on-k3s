@@ -23,8 +23,11 @@ To run MicroShift, you need a machine with at least:
 
 ## K3S setup
 
+Please use the following steps: https://github.com/daljitdokal/raspberry-pi-ubuntu-server-k3s-awx-ansible-automated-setup/blob/ubuntu-server/documentation/server-setup.md
 
+## Install MicroShift
 
+Please use the following steps: https://microshift.io/docs/getting-started/
 
 ## Note:
 
