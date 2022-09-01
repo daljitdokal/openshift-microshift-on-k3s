@@ -28,7 +28,7 @@ To run MicroShift, you need a machine with at least:
 
 ## Note:
 
-- It is only available in single node , `Multi node cluster support` is not avaible at this stage but under `PR` or `Work in progress`. 
+- It is only available in single node , `Multi node cluster support` is not available at this stage but under `PR` or `Work in progress`. 
 
 ## References:
 
